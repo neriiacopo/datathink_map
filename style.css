@@ -1,0 +1,35 @@
+img {
+    width: 300px;
+    max-width: 300px;
+    min-width: 300px;
+    height: 300px;
+    max-height: 300px;
+    min-height: 300px;
+}
+
+.map-popover {
+    border-radius: 0px;
+}
+
+/* .row__name {
+    display: none;
+}
+
+.map-popover__layer-name {
+    display: none;
+} */
+
+.logo-container {
+    position: fixed;
+    bottom: 35px;
+    right: -10px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.info_btn {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    z-index: 1000000;
+}
